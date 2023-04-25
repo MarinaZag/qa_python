@@ -119,3 +119,15 @@ class TestBooksCollector:
         assert len(collector.favorites()) == 1
 
     # проверяем удаление одной книги из избранного 123
+    def test_delete_book_from_favorites_one_book(self):
+        collector = BooksCollector()
+
+        collector.add_new_book('Гордость и предубеждение и зомби')
+        collector.add_new_book('Что делать, если ваш кот хочет вас убить')
+
+        collector.add_book_in_favorites('Гордость и предубеждение и зомби')
+        collector.add_book_in_favorites('Что делать, если ваш кот хочет вас убить')
+
+        collector.delete_book_from_favorites('Что делать, если ваш кот хочет вас убить')
+
+        assert len(collector.favorites()) == 1
