@@ -118,7 +118,7 @@ class TestBooksCollector:
 
         assert len(collector.favorites()) == 1
 
-    # проверяем удаление одной книги из избранного!
+    # проверяем удаление одной книги из избранного
     def test_delete_book_from_favorites_one_book(self):
         collector = BooksCollector()
 
