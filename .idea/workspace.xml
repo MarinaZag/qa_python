@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8dcff0f8-cb47-4cd6-8131-cb35ce791112" name="Changes" comment="last">
+      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OvVxykex3oqjFUFXBNkKsHdduI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zagam/qa_python-main&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for tests.TestBooksCollector.test_add_book_in_favorites_two_book">
+    <configuration name="Python tests for tests.TestBooksCollector.test_add_book_in_favorites_two_book" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="qa_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestBooksCollector.test_add_book_in_favorites_two_book&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.TestBooksCollector.test_add_book_in_favorites_which_is_not_in_books_rating" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="qa_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestBooksCollector.test_add_book_in_favorites_which_is_not_in_books_rating&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.TestBooksCollector.test_delete_book_from_favorites_one_book" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="qa_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestBooksCollector.test_delete_book_from_favorites_one_book&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.TestBooksCollector.test_set_book_rating_less_that_1_and_more_that_10" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="qa_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestBooksCollector.test_set_book_rating_less_that_1_and_more_that_10&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tests.TestBooksCollector.test_delete_book_from_favorites_one_book" />
+        <item itemvalue="Python tests.Python tests for tests.TestBooksCollector.test_add_book_in_favorites_two_book" />
+        <item itemvalue="Python tests.Python tests for tests.TestBooksCollector.test_add_book_in_favorites_which_is_not_in_books_rating" />
+        <item itemvalue="Python tests.Python tests for tests.TestBooksCollector.test_set_book_rating_less_that_1_and_more_that_10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dcff0f8-cb47-4cd6-8131-cb35ce791112" name="Changes" comment="" />
+      <created>1682441292733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682441292733</updated>
+    </task>
+    <task id="LOCAL-00001" summary="my first commit">
+      <created>1682441430272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682441430272</updated>
+    </task>
+    <task id="LOCAL-00002" summary="my first commit">
+      <created>1682441521810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682441521810</updated>
+    </task>
+    <task id="LOCAL-00003" summary="my first commit!!">
+      <created>1682441783424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682441783424</updated>
+    </task>
+    <task id="LOCAL-00004" summary="my first commit!!">
+      <created>1682442629904</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682442629904</updated>
+    </task>
+    <task id="LOCAL-00005" summary="my first commit!!">
+      <created>1682442912763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682442912763</updated>
+    </task>
+    <task id="LOCAL-00006" summary="my first commit!!">
+      <created>1682443137391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682443137391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="next one">
+      <created>1682443560068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682443560068</updated>
+    </task>
+    <task id="LOCAL-00008" summary="next one">
+      <created>1682444260484</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682444260484</updated>
+    </task>
+    <task id="LOCAL-00009" summary="next">
+      <created>1682444624057</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682444624057</updated>
+    </task>
+    <task id="LOCAL-00010" summary="deleted the code">
+      <created>1682445069374</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445069374</updated>
+    </task>
+    <task id="LOCAL-00011" summary="last">
+      <created>1682445853303</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445853303</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my first commit" />
+    <MESSAGE value="my first commit!!" />
+    <MESSAGE value="next one" />
+    <MESSAGE value="next" />
+    <MESSAGE value="deleted the code" />
+    <MESSAGE value="last" />
+    <option name="LAST_COMMIT_MESSAGE" value="last" />
+  </component>
+</project>
