@@ -1,4 +1,3 @@
-import pytest
 from main import BooksCollector
 
 # класс TestBooksCollector объединяет набор тестов, которыми мы покрываем наше приложение BooksCollector
@@ -70,8 +69,6 @@ class TestBooksCollector:
         collector.add_new_book('Что делать если ваш зомби - кот')
         collector.set_book_rating('Что делать если ваш зомби - кот', 7)
 
-
-        # проверяем, что длина словаря books_with_specific_rating равна 2
         assert len(collector.get_books_with_specific_rating(7)) == 2
 
     # добавлем книгу в избранное, которой нет в books_rating
